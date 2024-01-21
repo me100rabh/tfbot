@@ -4,7 +4,7 @@ from setuptools import setup, find_namespace_packages
 setup(
     name="tokenfinderbot",
     author="Farzad Z",
-    url="https://github.com/farzadex-eth/tokenfinderbot",
+    url="https://github.com/me100rabh/tfbot",
     description="TokenPoolBot is a simple bot for scanning new ERC-20 token pools created and filtering them based on the time created, liquidity and market cap. On each run it shows potential good token pools based on the filters.",
     version="0.1.0",
     package_dir={"": "tokenfinderbot"},
